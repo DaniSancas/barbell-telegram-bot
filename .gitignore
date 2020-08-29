@@ -20,6 +20,7 @@ var/
 .idea
 node_modules
 *__pycache__
+.coverage
 
 # Serverless directories
 .serverless
